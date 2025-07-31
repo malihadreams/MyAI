@@ -505,7 +505,7 @@ HTML_TEMPLATE = """
             </div>
         </div>
         
-        <footer>Created by Adarsh Bhai - AI Hub with Advanced Features</footer>
+        <footer>Created by Faizan Khan - AI Hub with Advanced Features</footer>
     </div>
 
     <script>
