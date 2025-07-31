@@ -419,7 +419,7 @@ HTML_TEMPLATE = """
 </head>
 <body>
     <div class="main-container">
-        <h1>🚀 AI Hub - Images & Chat</h1>
+        <h1>🚀 Faizan Hub Images & Chat</h1>
         
         <!-- Tabs -->
         <div class="tabs">
@@ -505,7 +505,20 @@ HTML_TEMPLATE = """
             </div>
         </div>
         
-        <footer>Created by Faizan Khan - AI Hub with Advanced Features</footer>
+<footer>
+    <p>Created by <strong>Faizan Khan</strong> – AI Hub with Advanced Features</p>
+    <div style="margin-top: 10px;">
+        <a href="https://github.com/faizan-khanx" target="_blank" style="text-decoration:none;">
+            <button class="btn" style="background: linear-gradient(45deg, #333, #6e5494);">GitHub</button>
+        </a>
+        <a href="https://instagram.com/ethicalfaizann" target="_blank" style="text-decoration:none;">
+            <button class="btn" style="background: linear-gradient(45deg, #e1306c, #c13584);">Instagram</button>
+        </a>
+        <a href="https://linkedin.com/in/ethicalfaizan" target="_blank" style="text-decoration:none;">
+            <button class="btn" style="background: linear-gradient(45deg, #0077b5, #00a0dc);">LinkedIn</button>
+        </a>
+    </div>
+</footer>
     </div>
 
     <script>
